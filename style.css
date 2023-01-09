@@ -10,10 +10,13 @@ header{
 }
 
 nav{
+    height: 50px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
     margin-top: 15px;
     margin-bottom: 15px;
+    background: url("https://www.pngmart.com/files/4/Playstation-PNG-Pic.png");
 }
 
 main{
